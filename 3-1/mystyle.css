@@ -1,0 +1,16 @@
+img { 
+  position: absolute;
+  width: 1360px;
+  height: 616px;
+  left: 40px;
+  top: 99px;
+border-radius: 0px;
+  }
+div.absolute {
+    position: absolute;
+    top: 30px;
+    left: 79px;
+    width: auto;
+    height: auto;
+    border: 3px solid #aa00ff;
+  }
