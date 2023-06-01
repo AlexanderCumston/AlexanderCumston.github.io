@@ -91,7 +91,8 @@ p.GOP {
 .button {
     background-color: rgb(255, 255, 255);
     border: none;
-    color: rgb(17, 0, 251);
+    border-color: blue;
+    color:blue;
     padding: 15px 30px;
     text-align: center;
     text-decoration: none;
