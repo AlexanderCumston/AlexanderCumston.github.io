@@ -111,6 +111,14 @@ p.GOP {
     border: 2px;
     border-radius:5px;
   }
+  p.figma {
+    position: absolute;
+    top: 35%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    color: White;
+    font-size:12px;
+  }
 /* Fonts */
 @font-face {
     font-family: "Campton";
