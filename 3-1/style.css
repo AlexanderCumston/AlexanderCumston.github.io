@@ -89,9 +89,9 @@ p.GOP {
     font-size:90px;
 }
 .button {
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     border: none;
-    color: white;
+    color: rgb(17, 0, 251);
     padding: 15px 30px;
     text-align: center;
     text-decoration: none;
