@@ -1,0 +1,82 @@
+img.logo {
+    position: absolute;
+width: 42px;
+height: 42px;
+left: 118.6px;
+top: 49.8px;
+
+}
+img.goplaces{ 
+position: absolute;
+width: 1360px;
+height: 616px;
+left: 40px;
+top: 99px;
+border-radius: 0px;
+}
+div.gof{
+position: absolute;
+width: 75px;
+height: 36px;
+left: 127px;
+top: 34px;
+
+font-family: 'Campton';
+font-size: 25.886px;
+line-height: 30px;
+
+color: #3D3D3D;
+}
+
+a.dest{
+position: absolute;
+width: 398px;
+height: 17px;
+left: 855px;
+top: 44px;
+
+font-family: 'Campton';
+font-size: 12px;
+line-height: 14px;
+
+color: #3D3D3D;
+}
+a.rese{
+position: absolute;
+width: 398px;
+height: 17px;
+left: 975px;
+top: 44px;
+
+font-family: 'Campton';
+font-size: 12px;
+line-height: 14px;
+
+color: #3D3D3D;
+}
+a.upda{
+position: absolute;
+width: 398px;
+height: 17px;
+left: 1100px;
+top: 44px;
+
+font-family: 'Campton';
+font-size: 12px;
+line-height: 14px;
+
+color: #3D3D3D;
+}
+a.lore{
+position: absolute;
+width: 398px;
+height: 17px;
+left: 1200px;
+top: 44px;
+
+font-family: 'Campton';
+font-size: 12px;
+line-height: 14px;
+
+color: #3D3D3D;
+}
